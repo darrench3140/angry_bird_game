@@ -1,3 +1,3 @@
-# Angie Bird
+# Angry Bird Game
 
-The angry bird game written with Unity for learning purposes.
+For learning purposes, I have written the angry bird game in Unity.
